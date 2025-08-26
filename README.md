@@ -1,6 +1,8 @@
-# 📦 Logistics Network Expansion Insights
+# 📦 Supply Chain Network Expansion Insights
 
 This project analyzes logistics performance data to generate insights on **which facilities/regions are best suited for network expansion**. The analysis focuses on balancing **reliability (OTS: On-Time Shipment), capacity (Inbound & Outbound), and cost efficiency (VCPU: Variable Cost Per Unit)** to guide data-driven decision-making.
+
+> _To ensure everyone can access the analysis, I have prepared it in both Excel and Tableau. If you don't have a Tableau subscription, don't worry. I have used both the normal formula method and the pivot table in Excel, and I've attached the workbook here._
 
 ## 🔍 Objectives
 
@@ -33,7 +35,7 @@ GitHub was used for version control and sharing results.
 ```
 data/                Raw and processed datasets  
 excel/               Pivot table analysis  
-tableau/             Tableau workbooks  
+tableau/             Tableau workbook  
 visuals/             Charts & dashboards exported  
 presentation/        Final presentation deck (PDF/PPTX from Canva)  
 README.md            Project overview  
